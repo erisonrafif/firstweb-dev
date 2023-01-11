@@ -3,3 +3,4 @@ Resolusi
   - membuat 1 website tentang diri saya yang akan terus berkembang sampai bisa menjadi cv-web-based
   - website mendunia
   - buat template wordpress
+  - mengerti banyak bahasa pemograman dan kaya raya dari coding
