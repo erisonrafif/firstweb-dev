@@ -1,4 +1,5 @@
 Resolusi
   - belajar membuat website dari awal sampai jago
   - membuat 1 website tentang diri saya yang akan terus berkembang sampai bisa menjadi cv-web-based
-  
+  - website mendunia
+  - buat template wordpress
