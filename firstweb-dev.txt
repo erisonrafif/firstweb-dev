@@ -1,6 +1,4 @@
 Resolusi
-  - belajar membuat website dari awal sampai jago
-  - membuat 1 website tentang diri saya yang akan terus berkembang sampai bisa menjadi cv-web-based
-  - website mendunia
-  - buat template wordpress
-  - mengerti banyak bahasa pemograman dan kaya raya dari coding
+  - repo ini akan menjadi repo utama dalam saya membentuk website dari awal
+  - harapan saya dengan pengembangan website pribadi disini saya bisa memebentuk website yang proper dan layak di launchig
+  - dan bisa menjadi web development profesional dan mendapatkan profit dari pekerjaan ini.
